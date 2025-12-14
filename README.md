@@ -1,12 +1,41 @@
-# React + Vite
+# Tree Link React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Simple React application inspired by link-in-bio pages, built to practice component structure and styling using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Overview
 
-## Expanding the ESLint configuration
+This project displays a list of links in a single-page layout.
+It was created as part of a frontend learning process to practice modern React tooling and UI styling.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+- Single-page React application
+- Reusable button component
+- Tailwind CSS styling
+- Clean and minimal layout
+
+---
+
+## Tech Stack
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+
+---
+
+## Learning Goals
+- Practice React component structure
+- Work with modern tooling (Vite)
+- Style components using Tailwind CSS
+
+---
+
+## Running the project locally
+
+```bash
+npm install
+npm run dev
